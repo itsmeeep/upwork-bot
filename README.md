@@ -48,7 +48,7 @@ to apply filters, here the example
 ```
 
 on the result data, you can see the RSS URL that you can use on RSS command
-you can also get the RSS URL from upwork.com job search page
+you can also get the RSS URL from [upwork.com](https://www.upwork.com/) job search page
 
 
 
