@@ -2,7 +2,7 @@
 
 ![Upwork](https://assets-global.website-files.com/5ec7dad2e6f6295a9e2a23dd/62279a8cea48468ffd59888d_upwork-logo.svg)
 
-Upwork bot is an automate job generating latest job data from upwork.com
+Upwork bot is an automate job generating latest job data from [upwork.com](https://www.upwork.com/)
 upwork bot read registered RSS URL based on user input and send the notifier via discord channel at the scheduled time to help user up to date with job update
 it written in the Javascript Language.
 
@@ -48,7 +48,7 @@ to apply filters, here the example
 ```
 
 on the result data, you can see the RSS URL that you can use on RSS command
-you can also get the RSS URL from upwork.com job search page
+you can also get the RSS URL from [upwork.com](https://www.upwork.com/) job search page
 
 
 
